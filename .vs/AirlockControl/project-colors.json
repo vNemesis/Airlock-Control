@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0602119b-819f-4ffe-9a4b-bf2f8891c778": {
+      "ProjectGuid": "0602119b-819f-4ffe-9a4b-bf2f8891c778",
+      "DisplayName": "AirlockControl",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

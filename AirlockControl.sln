@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirlockControl", "NightLightControl\AirlockControl.csproj", "{0602119B-819F-4FFE-9A4B-BF2F8891C778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0602119B-819F-4FFE-9A4B-BF2F8891C778}.Debug|x64.ActiveCfg = Debug|x64
+		{0602119B-819F-4FFE-9A4B-BF2F8891C778}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7815D6EE-8F22-4BEB-BAA8-EABD68B3C14E}
+	EndGlobalSection
+EndGlobal
